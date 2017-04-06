@@ -1,5 +1,5 @@
 # Starnight 
-![Starnight](https://github.com/anna-wro/starnight/blob/master/img/screenshot.png)
+![Starnight](https://github.com/anna-wro/starnight/blob/master/screenshots/screenshot.png)
 
 "Starnight" is a one page website for a fictional app to help you see stars at night. 
 
